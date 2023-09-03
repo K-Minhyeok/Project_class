@@ -7,6 +7,7 @@ public class Word {
     private  String meaning;
 
 
+
     Word(){} //parameter X constructor
     Word(int id,int level, String word, String meaning){
         this.id=id;
@@ -47,4 +48,18 @@ public class Word {
     public void setMeaning(String meaning) {
         this.meaning = meaning;
     }
+
+    @Override
+    public String toString() {
+
+        String slevel = "";
+        for(int i=0; i <level; i++){
+            slevel += "*";
+        }
+        String str = String.format("%-3s",slevel)+String.format("%15s",word)+"  "+ meaning;
+
+        return str;
+    }
 }
+
+

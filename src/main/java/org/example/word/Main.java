@@ -1,10 +1,18 @@
 package org.example.word;
 
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
+/* How this program works
+// 1. Set CRUD intfc frame
+// 2. Implement WordCRUD class using CRUD intfc
+// 3. Call instance of Word CRUD in WordManager class.
+// 4. Use WordManger in Main.
 
+*/
+
+
+WordManager w = new WordManager();
+w.start();
 
     }
 }

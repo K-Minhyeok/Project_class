@@ -1,5 +1,6 @@
 package org.example.word;
 
+//What functions is going to be operated
 public interface CRUD {
     public Object add();
     public int update(Object ob);
