@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.logging.Level;
 
+import static java.lang.System.exit;
+
 //This class is for specific implementation of every function of CRUD
 //Kinda frame of CRUD
 public class WordCRUD implements CRUD{
@@ -61,4 +63,9 @@ public void addWord(){
         System.out.println("--------------------------");
 
     }
+
+    public void turnOff(){
+        System.out.println("프로그램 종료! 다음에 만나요~ ");
+        System.exit(1);
+}
 }

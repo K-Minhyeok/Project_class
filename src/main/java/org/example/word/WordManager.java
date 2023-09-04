@@ -59,5 +59,6 @@ WordManager(){
 
             }
         }
+        wordCRUD.turnOff();
     }
 }
