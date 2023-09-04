@@ -1,4 +1,4 @@
- <div> 첫 프로젝트
+ <div> 프로젝트 1
    
 <p> 첫 번째 단어 추가</p>
 <img src=https://github.com/K-Minhyeok/Project_class/assets/74346735/9860dc45-c7b5-467a-9d60-4fcaf84bc6f1 width=800>
@@ -17,3 +17,5 @@
 <p> 종료 </p>
 <img src=https://github.com/K-Minhyeok/Project_class/assets/74346735/cefd57ba-5059-47be-9a54-020c6668e5de width=800>
 </div>
+
+ <hr width = "100%" color = "blue" size = "3">
