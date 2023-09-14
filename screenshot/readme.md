@@ -20,6 +20,34 @@
 <img src=https://github.com/K-Minhyeok/Project_class/assets/74346735/cefd57ba-5059-47be-9a54-020c6668e5de width=800>
 </div>
 
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+최종 보고서
+<li> 파일 로드 / 단어 조회</li>
+<img src=https://github.com/K-Minhyeok/Project_class/assets/74346735/343ac11a-e02e-4bb1-951f-c33673b7c7be width=800>
+
+<li> 단어 수정 </li>
+<img src=https://github.com/K-Minhyeok/Project_class/assets/74346735/7bc45e30-5114-4e35-a4cc-8c54f19195ed width=800>
+
+<li> 단어 삭제 </li>
+<img src=https://github.com/K-Minhyeok/Project_class/assets/74346735/cf57257b-6466-4b5a-8106-f9b151528a63 width=800>
+
+<li> 파일에 저장 </li>
+<img src=https://github.com/K-Minhyeok/Project_class/assets/74346735/b689d4d9-2f15-44cd-a32d-78263fcd3f12 width=800>
+
+<li> 단어 조회(수정한 단어랑 삭제한 단어 확인) </li>
+<img src=https://github.com/K-Minhyeok/Project_class/assets/74346735/ffe06454-2496-43d9-a08d-9354c033a4ea width=800>
+
+<li> 수준별 단어 검색 </li>
+<img src= https://github.com/K-Minhyeok/Project_class/assets/74346735/3d4ace26-2763-4ec0-8681-2ac9f36918ff width=800>
+
+<li> 원하는 단어 검색 </li>
+<img src= https://github.com/K-Minhyeok/Project_class/assets/74346735/df008e24-95c2-40cc-b06e-9092d525be4c width=800>
+
+<li> 종료 </li>
+<img src= https://github.com/K-Minhyeok/Project_class/assets/74346735/59b83811-e71c-4933-ad01-a2a3626bc90b width=800>
+
+
+
 </ul>
  <hr width = "100%" color = "blue" size = "3">
 
