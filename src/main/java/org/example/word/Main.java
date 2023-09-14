@@ -7,7 +7,6 @@ public class Main {
 // 2. Implement WordCRUD class using CRUD intfc
 // 3. Call instance of Word CRUD in WordManager class.
 // 4. Use WordManger in Main.
-
 */
 
 

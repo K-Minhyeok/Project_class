@@ -27,6 +27,7 @@ WordManager(){
     }
 
     public  void start(){
+    wordCRUD.loadFile();
         while(true) {
             int a = selecetMenu();
             if(a==0){
@@ -37,10 +38,11 @@ WordManager(){
             }
 
             if(a==2){
-
+            wordCRUD.searchLevel();
             }
 
             if(a==3){
+                wordCRUD.searchWord();
 
             }
 
@@ -49,14 +51,14 @@ WordManager(){
             }
 
             if(a==5){
-
+                wordCRUD.updateItem();
             }
 
             if(a==6){
-
+                wordCRUD.deleteItem();
             }
             if(a==7){
-
+                wordCRUD.saveFile();
             }
         }
         wordCRUD.turnOff();
