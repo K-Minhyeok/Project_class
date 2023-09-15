@@ -2,11 +2,10 @@
 1| snack|간식
 1| apple|사과
 1| mike|마이크
-1| might|아마
 1| dog|강아지
 3| comfortable|편안한
 2| increase|증가하다
 3| decent|준수한
 1| cat|고양이
 2| respect|존경하다,존경
-1| reset|초기화하다
+1| reset|초기화하다, 초기화
